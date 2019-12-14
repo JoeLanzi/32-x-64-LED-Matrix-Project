@@ -4,4 +4,4 @@
 ![Alt text](https://github.com/JoeLanzi/LEDMatrixProject/blob/master/Manhattan1.PNG)
 
 
-This will be the repository for the group
+Just a mess in the midst of the internet
